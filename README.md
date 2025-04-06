@@ -50,5 +50,21 @@ A fully functional **real-time chat application** built using the powerful **MER
 
 ---
 
-## 📂 Project Structure
+## 🚧 Installation & Setup
 
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/your-username/realtime-chat-app.git
+   cd realtime-chat-app
+
+2. **Install Server Dependency and run**
+   ```bash
+   cd server
+   npm install
+   npm run dev
+
+3. **Install Client Dependency and run**
+   ```bash
+   cd client
+   npm install
+   npm run dev
