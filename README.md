@@ -54,7 +54,7 @@ A fully functional **real-time chat application** built using the powerful **MER
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/realtime-chat-app.git
+   git clone https://github.com/Dhruvil369/Chat_app_using_socket_and-_MERN.git
    cd realtime-chat-app
 
 2. **Install Server Dependency and run**
